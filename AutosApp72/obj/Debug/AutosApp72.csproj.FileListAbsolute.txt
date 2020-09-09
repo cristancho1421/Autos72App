@@ -1,0 +1,34 @@
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\bin\Debug\AutosApp72.exe.config
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\bin\Debug\AutosApp72.exe
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\bin\Debug\AutosApp72.pdb
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\obj\Debug\AutosApp72.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\obj\Debug\AutosApp72.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\obj\Debug\AutosApp72.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\obj\Debug\AutosApp72.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\obj\Debug\AutosApp72.exe
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\obj\Debug\AutosApp72.pdb
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\obj\Debug\AutosApp72.FrmPrincipal.resources
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\obj\Debug\AutosApp72.Clientes.resources
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\obj\Debug\AutosApp72.Inventario.resources
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\obj\Debug\AutosApp72.Revisiones.resources
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\obj\Debug\AutosApp72.Vehiculos.resources
+C:\Users\Usuario\Source\Repos\AutosApp72\AutosApp72\obj\Debug\AutosApp72.Ventas.resources
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\bin\Debug\AutosApp72.exe.config
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\bin\Debug\AutosApp72.exe
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\bin\Debug\AutosApp72.pdb
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\obj\Debug\AutosApp72.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\obj\Debug\AutosApp72.Clientes.resources
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\obj\Debug\AutosApp72.Inventario.resources
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\obj\Debug\AutosApp72.FrmPrincipal.resources
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\obj\Debug\AutosApp72.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\obj\Debug\AutosApp72.Revisiones.resources
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\obj\Debug\AutosApp72.Vehiculos.resources
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\obj\Debug\AutosApp72.Ventas.resources
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\obj\Debug\AutosApp72.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\obj\Debug\AutosApp72.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\obj\Debug\AutosApp72.exe
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\obj\Debug\AutosApp72.pdb
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\bin\Debug\AutosApp72.exe.manifest
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\bin\Debug\AutosApp72.application
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\obj\Debug\AutosApp72.exe.manifest
+C:\Users\Usuario\Desktop\Desarrollo de Software\Ciclo 7\Sistemas Integrados\AutosApp72\AutosApp72\obj\Debug\AutosApp72.application
